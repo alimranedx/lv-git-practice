@@ -24,6 +24,7 @@
         <div class="container">
             <h1 class="text-center">Hello Laravel</h1>
             <p class="text-center text-info">Sample Para Goes There</p>
+            <h2>New code added in project</h2>
         </div>
     </body>
 </html>
