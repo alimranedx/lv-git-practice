@@ -25,6 +25,7 @@
             <h1 class="text-center">Hello Laravel</h1>
             <p class="text-center text-info">Sample Para Goes There</p>
             <h2>New code added in project</h2>
+            <h1>hey how are you</h1>
         </div>
     </body>
 </html>
